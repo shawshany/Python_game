@@ -1,0 +1,1 @@
+This is a game named alien invasion. Player controls the spacesheep at the bottom of the window by using the arrow key and uses the space key to shoot the aliens. You should know that you have only three lives.
